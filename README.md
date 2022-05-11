@@ -10,3 +10,8 @@
 - 🌱 I’m currently learning flutter
 - 😄 Pronouns: ele/dele
 
+<div> 
+ 
+  ![Snake animation](https://github.com/PedroLucasReis/PedroLucasReis/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
